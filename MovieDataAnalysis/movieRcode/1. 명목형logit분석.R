@@ -1,7 +1,7 @@
 # logit
 
 library(nnet)
-d.a<-read.csv("inflatedTrainSet.csv")
+d.a<-read.csv("trainset.csv")
 d.t<-read.csv("testset.csv")
 m <- multinom(a~.,data=d.a)
 multinom(formula = a ~.,data=d.a)
