@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560409992967.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3065113832",
+    "id" : "1669C9B9",
+    "lastKnownWriteTime" : 1560409945,
+    "last_content_update" : 1560409945,
+    "path" : "~/movieDataAnalysis/movieRcode/8. inflatedData KNN.R",
+    "project_path" : "movieRcode/8. inflatedData KNN.R",
+    "properties" : {
+        "cursorPosition" : "12,25",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560407285928.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3228731830",
+    "id" : "8D3D748",
+    "lastKnownWriteTime" : 1560407896,
+    "last_content_update" : 1560407896895,
+    "path" : "~/GolfDataAnalysis/Rcode/11. Ave.birdie제거, PCA.R",
+    "project_path" : "Rcode/11. Ave.birdie제거, PCA.R",
+    "properties" : {
+        "cursorPosition" : "23,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
