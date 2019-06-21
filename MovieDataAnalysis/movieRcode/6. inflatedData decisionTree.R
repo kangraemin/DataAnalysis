@@ -12,7 +12,10 @@ cfm
 train.err
 (1-train.err)*100
 library(party)
-dtree<-ctree(a~. , d.a)
-plot(dtree)
+#dtree<-ctree(a~. , d.a)
+#plot(dtree)
 imp <- varImp(m.rp)
 rownames(imp)[order(imp$Overall, decreasing="True")][1:5]
+confusionMatrix(pred.y, d.t$a)
+prob= (sum(cfm[2,1])+sum(cfm[1:2,3])+sum(cfm[1:3,4])+sum(cfm[1:4,5])) / sum(cfm[1:5,1:5])
+prob
